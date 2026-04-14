@@ -28,7 +28,6 @@ This helps in **cost optimization, auditing, and infrastructure visibility**.
 ## ⚙️ Architecture
 
 EC2 Instance → Shell Script → AWS CLI → Logs → Cron Automation
-
 ---
 
 ## 📜 Script Functionality
